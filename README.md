@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 
+
+I'm a student that is currently interested in a wide array of languages, and the array is ever increasing.
+
+I usually write in Solidity or Typescript, as I prefer the best tool for the job, and nodejs works for nearly everything.
+
+if you have any question, feel free to ask me :)
 
 <!--
 **OwlInSpace/OwlInSpace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
